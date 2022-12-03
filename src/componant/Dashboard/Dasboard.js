@@ -2,8 +2,8 @@ import React from 'react';
 
 const Dasboard = () => {
         return (
-                <div>
-                        
+                <div> 
+                      <h1> hi from dashhhhhhhhhhhhhhhhhhm</h1>  
                 </div>
         );
 };

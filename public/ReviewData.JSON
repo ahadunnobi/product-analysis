@@ -1,0 +1,72 @@
+[
+        {
+            "image": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+            "id": 1,
+            "name": "John Doe",
+            "stars": 5,
+            "briefReview": "VS Code is a great product, I really like it!  VS Code is an amazing product that has been a great asset to my workflow. The user interface is incredibly intuitive and the features it offers are incredibly useful. I especially love the ability to customize my workspace and the ability to group my projects into workspaces. The syntax highlighting and auto-completion features are also a great help when coding."
+        },
+        {
+            "image": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=200",
+            "id": 2,
+            "name": "Jane Alam",
+            "stars": 4,
+            "briefReview": "VS Code is an amazing product I've been using VS Code for a few months and I find it to be an invaluable tool for my development work. The amount of features and options available make it extremely easy to customize my workflow. The debugging and code refactoring tools are especially useful for quickly identifying and resolving bugs."
+        },
+        {
+            "image": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=300",
+            "id": 3,
+            "name": "Jack Smith",
+            "stars": 5,
+            "briefReview": "I love VS Code, it has a lot of great features I have been using VS Code for a few months and I must say it is the perfect development environment for me. It has all the features I need and the user interface is so intuitive that I don't have to think too much about how to use it. The debugging tools are very helpful and the ability to group my projects into workspaces is great."
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?auto=format&h=200",
+            "id": 4,
+            "name": "Jill Smith",
+            "stars": 3,
+            "briefReview": "VS Code is okay, but could be better VS Code is an excellent product that has greatly improved my development workflow. The integrated debugging and code refactoring tools are incredibly useful and the syntax highlighting and auto-completion features make coding so much easier. The customizable workspace and the ability to group my projects into workspaces are great features."
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/proud-businessman-his-office_1098-65.jpg?size=626&ext=jpg&ga=GA1.2.1378536992.1670057941&semt=sph",
+            "id": 5,
+            "name": "Eric Johnson",
+            "stars": 4,
+            "briefReview": "VS Code is an excellent product VS Code is a fantastic product that I'm grateful to have discovered. It has been a huge help in improving my development workflow. The debugging and code refactoring tools are incredibly useful, and the syntax highlighting and auto-completion features make coding so much easier. The customizable workspace and the ability to group my projects into workspaces are great features."
+        },
+        {
+            "image": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "id": 6,
+            "name": "Amanda Johnson",
+            "stars": 5,
+            "briefReview": "I highly recommend VS Code VS Code is an amazing product that I wouldn’t be without. It helps me code faster with its debugging and code refactoring tools, and the syntax highlighting and auto-completion features are invaluable. The customizable workspace and the ability to group my projects into workspaces are great features that make organization a breeze."
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.2.1378536992.1670057941&semt=sph",
+            "id": 7,
+            "name": "Steve Brown",
+            "stars": 4,
+            "briefReview": "VS Code is great for coding projects VS Code is an incredible product that has made my development workflow much more efficient. The debugging and code refactoring tools are great for quickly identifying and resolving bugs, and the syntax highlighting and auto-completion features are incredibly useful. The customizable workspace and the ability to group my projects into workspaces are great features."
+        },
+        {
+            "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "id": 8,
+            "name": "Sara Brown",
+            "stars": 3,
+            "briefReview": "VS Code has a few flaws, but overall it is a good product VS Code is an amazing product that has made me much more productive. The debugging and code refactoring tools are incredibly helpful, and the syntax highlighting and auto-completion features make coding so much easier. The customizable workspace and the ability to group my projects into workspaces are great features."
+        },
+        {
+            "image": "https://images.pexels.com/photos/936229/pexels-photo-936229.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "id": 9,
+            "name": "William Taylor",
+            "stars": 5,
+            "briefReview": "VS Code is an excellent product, highly recommend it! VS Code is an amazing product that has made me much more productive. The debugging and code refactoring tools are incredibly helpful, and the syntax highlighting and auto-completion features make coding so much easier. The customizable workspace and the ability to group my projects into workspaces are great features."
+        },
+        {
+            "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "id": 10,
+            "name": "Karen Taylor",
+            "stars": 4,
+            "briefReview": "VS Code is great, I use it all the time VS Code is an amazing product that has made me much more productive. The debugging and code refactoring tools are incredibly helpful, and the syntax highlighting and auto-completion features make coding so much easier. The customizable workspace and the ability to group my projects into workspaces are great features."
+        }
+    ]
