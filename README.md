@@ -3,14 +3,17 @@
 
 ## Live Site Link
 
-Click here to go live Website: https://grocery-shop-ahad.netlify.app/
+Click here to go live Website: https://product-analysis-an.netlify.app/
 
 
 
 ## Description
 
+The website is designed to be user-friendly and easy to navigate, with clear and concise product descriptions, high-quality images, and a range of sorting and filtering options to help users find the products that best meet their needs.
 
-The grocery shop website is a user-friendly online store that offers a convenient way to shop for groceries. The website provides a wide range of products, including fresh produce, meat, dairy, and household items. Customers can create a shopping list, view recipes, and track their order history.
+Users can also leave their own reviews and ratings for products, allowing other users to see real-life experiences and opinions about the products. This helps to provide a more comprehensive and unbiased view of the products, helping users make more informed decisions.
+
+Overall, the goal of your product analysis website is to make the process of shopping online easier and more enjoyable for users, by providing them with the information they need to make informed decisions about the products they are interested in.
 
 
 ## Run Locally
@@ -18,13 +21,13 @@ The grocery shop website is a user-friendly online store that offers a convenien
 Clone the project
 
 ```bash
-  git clone https://github.com/ahadunnobi/grocery-shop
+  git clone https://product-analysis-an.netlify.app/
 ```
 
 Go to the project directory
 
 ```bash
-  cd grocery-shop
+  cd product-analysis
 ```
 
 Install dependencies
