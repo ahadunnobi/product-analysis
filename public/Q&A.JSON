@@ -1,14 +1,14 @@
 [
   {
-    "title": "Title 1",
-    "content": ""
+    "title": "WHAT IS CONTEXT API?",
+    "content": "The Context API is a feature of React that allows you to pass data through the component tree without having to pass props down manually at every level. It is designed to share data that is considered global for a tree of React components, such as the authenticated user, the theme, or the preferred language. To use the Context API, we need to create a context object using the React.createContext method, and then we have to provide the context value to the components that need it using the Provider component. The components that need to consume the context value can use the useContext hook or the Consumer component to access it."
   },
   {
-    "title": "Title 2",
-    "content": "Content 2"
+    "title": "WHAT IS SEMANTIC TAG?",
+    "content": "  Semantic tags are HTML tags that convey meaning to the content they contain. They allow US to structure the content of a webpage in a way that is meaningful and easy to understand for both humans and machines. Some examples of semantic tags include <header>, <nav>, <article>, <section>, <aside>, <footer>, and <figure>. These tags describe the purpose or role of the content they contain, rather than its appearance or layout. Using semantic tags can improve the accessibility, search engine optimization, and overall quality of a webpage. It is generally recommended to use semantic tags over non-semantic tags like <div> or <span> whenever possible, as they provide more context and meaning to the content. For example, instead of using a <div> to wrap a navigation menu, we can use the <nav> tag to indicate that the content is a navigation menu. This helps screen readers and other assistive technologies to understand the purpose of the content, and it also helps search engines to index the page more accurately. It is also important to note that semantic tags do not change the appearance of the content they contain. You will still need to use CSS to style the content as needed.                         "
   },
   {
-    "title": "Title 3",
-    "content": "Content 3"
+    "title": "INLINE VS BLOCK",
+    "content": "In HTML, elements can be either inline or block-level elements. The main difference between these two types of elements is how they are displayed on the page and how they interact with other elements. Inline elements are elements that are placed inline with the text and only take up as much width as necessary. They do not start on a new line and do not take up the full width of their parent container. Examples of inline elements include the <a> anchor tag, the <em> emphasis tag, and the <img> image tag. Block-level elements are elements that take up the full width of their parent container and start on a new line. They can contain other elements and are often used to group and structure content. Examples of block-level elements include the <div> division tag, the <p> paragraph tag, and the <h1> heading tag."
   }
 ]
