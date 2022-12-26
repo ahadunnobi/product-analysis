@@ -46,8 +46,8 @@ const data = [
   return (
       <>
        <div className="flex">
-       <div style={{ width: '100%', height: 500 }}>
-       <h1 className="text-center text-gray-800 capitalize text-4xl m-5 font-sansfont-bold">INVESTMENT, REVENUE AND Sells Per Month</h1>
+       <div style={{ width: '100%', height: 550 }}>
+       <h1 className="text-center text-gray-800 capitalize text-4xl m-5 font-sansfont-bold">IRS Per Month</h1>
         <ResponsiveContainer>
           <ComposedChart
             width={800}
@@ -66,12 +66,12 @@ const data = [
             <Tooltip />
             <Legend />
             <Area type="monotone" dataKey="investment" fill="#8884d8" stroke="#8884d8" />
-            <Bar dataKey="sell" barSize={30} fill="#413ea0" />
+            <Bar dataKey="sell" barSize={20} fill="#413ea0" />
             <Line type="monotone" dataKey="revenue" stroke="#ff7300" />
           </ComposedChart>
         </ResponsiveContainer>
       </div>
-      <div style={{ width: '100%', height: 500 }}>
+      <div style={{ width: '100%', height: 550 }}>
         <h1 className="text-center text-gray-800 capitalize text-4xl m-5 font-sansfont-bold">Sells Per Month</h1>
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
@@ -90,7 +90,7 @@ const data = [
           <YAxis />
           <Tooltip />
           <Legend />
-          <Bar dataKey="revenue" barSize={30} fill="#8884d8" />
+          <Bar dataKey="revenue" barSize={20} fill="#8884d8" />
         </BarChart>
       </ResponsiveContainer>
       </div>

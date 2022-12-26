@@ -20,13 +20,15 @@ const Home = () => {
                        </div>
                 </div>
                 <div className='pb-16'>
-                        <h1 className='m-3 text-5xl text-center font-mono font-semibold pt-5'> CUSTOMER REVIEWS</h1>
+                        <h1 className='m-3 text-5xl text-center font-mono font-semibold pt-5'> WHAT OUR CUSTOMER SAY ABOUT US!</h1>
                         <div className='flex flex-row flex-wrap gap-24 justify-center'>
                         {
                                 Review.map(Review => <Reviewdata key={Review.id} Review={Review}></Reviewdata>)
                         }
                         </div>
+                        <div className='flex justify-evenly'>
                         <button className='mt-5 w-52'><Link to={'/review'}><div className=" hover:text-gray-300 hover: bg-blue-500 bg-gray-700text-white px-3 py-5 rounded-md text-sm font-medium font-extrabold decoration-indigo-50 text-lg" aria-current="page">SEE ALL REVIEWS</div></Link></button>
+                        </div>
                 </div>
                 </>
         );

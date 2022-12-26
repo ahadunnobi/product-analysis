@@ -20,8 +20,7 @@ const Header = () => {
               <NavLink
                 exact
                 to="/"
-                activeClassName="active"
-                className="nav-links"
+                className="nav-links active"
                 onClick={click ? handleClick : null}
               >
                 HOME
@@ -31,8 +30,7 @@ const Header = () => {
               <NavLink
                 exact
                 to='/review'
-                activeClassName="active"
-                className="nav-links"
+                className="nav-links active"
                 onClick={click ? handleClick : null}
               >
                 REVIEW
@@ -42,8 +40,7 @@ const Header = () => {
               <NavLink
                 exact
                 to="/dashboard"
-                activeClassName="active"
-                className="nav-links"
+                className="nav-links active"
                 onClick={click ? handleClick : null}
               >
                 DASHBOARD
@@ -53,8 +50,7 @@ const Header = () => {
               <NavLink
                 exact
                 to="/blog"
-                activeClassName="active"
-                className="nav-links"
+                className="nav-links active"
                onClick={click ? handleClick : null}
               >
                 BLOG
@@ -64,8 +60,7 @@ const Header = () => {
               <NavLink
                 exact
                 to="/about"
-                activeClassName="active"
-                className="nav-links"
+                className="nav-links active"
                onClick={click ? handleClick : null}
               >
                ABOUT
