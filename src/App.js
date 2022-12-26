@@ -10,7 +10,7 @@ import Review from "./componant/Review/Review";
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Header></Header>
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>

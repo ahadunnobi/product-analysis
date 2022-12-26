@@ -13,12 +13,11 @@ const Reviewdata = ({Review}) => {
          </div>
       </div>
       <div className="name">{name}</div>
+      <div className="font-bold">Ratings : {stars}</div>
       <div className="about">
         {showmore ? briefReview :`${briefReview.substring(0,250)}`}
-        <button className="inset-1 font-bold" onClick={()=> setshowmore(!showmore)}>
+        <br></br><button className="inset-1 font-bold" onClick={()=> setshowmore(!showmore)}>
         {showmore ? "...Show less" : "...Show more"}</button></div>
-        <div className="about">{stars}</div>
-       
    </div>
 </div>
         );
